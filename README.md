@@ -38,7 +38,3 @@ This project requires the following dependencies:
 
 - Python
 - curses
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
